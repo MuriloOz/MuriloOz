@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+bem-vindo+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Murilo+Rafael,+um+desenvolvedor+Full+Stack.;Fique+à+vontade+para+ver+meus+projetos!;&center=true&vCenter=true&duration=3000&pause=500&color=3CB371&width=1000&height=50&size=35&font=Kanit)](https://www.linkedin.com/in/rodrigovalim07/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-oliveira-668b36a9/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilovzs/)
-
 
 ![MuriloOz GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloOz&show_icons=true&theme=radical)
 

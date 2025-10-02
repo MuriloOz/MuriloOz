@@ -1,27 +1,116 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+bem-vindo+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Murilo+Rafael,+um+desenvolvedor+Full+Stack.;Fique+à+vontade+para+ver+meus+projetos!;&center=true&vCenter=true&duration=3000&pause=500&color=3CB371&width=1000&height=50&size=35&font=Kanit)](https://www.linkedin.com/in/rodrigovalim07/)
+Full-Stack Developer | JavaScript, Node.js, React.js, Vue.js | SQL, Python, C# | HTML, CSS, TypeScript & Modern Web Development. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-oliveira-668b36a9/)
+<div align="center">
 
-![MuriloOz GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloOz&show_icons=true&theme=radical)
+# ⚡ Murilo Oliveira
+*Full-Stack Developer & Web Enthusiast*
 
-### Tecnologias 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=MuriloOz+-+Full-Stack+Developer;JavaScript+%26+Node.js;React+%26+Vue.js;SQL+%26+Python)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+## 🧠 Sobre Mim
+
+Desenvolvedor **Full-Stack** apaixonado por criar soluções intuitivas e escaláveis. Com experiência sólida em **JavaScript, Node.js, React.js e Vue.js**, também trabalho com bancos de dados como **SQL** e linguagens como **Python e C#**, sempre buscando unir tecnologia e eficiência para resolver problemas do mundo real.
+
+Atualmente, foco em **desenvolvimento web moderno**, criação de **aplicações interativas**, integração de APIs, e construção de **interfaces responsivas** e de alta performance.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 🎯 Objetivo
+
+Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando as melhores práticas de **Full-Stack Development** e tecnologias modernas para transformar ideias em produtos funcionais.
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### 🌐 Front-end & Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+</p>
+
+### 💾 Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+</p>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloOz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00bfbf&icon_color=00bfbf"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloOz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bfbf"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloOz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloOz&bg_color=0D1117&color=00bfbf&line=00bfbf&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🎓 Experiência & Formação
+
+<div align="center">
+
+| 🚀 | **FSG** | *Engenharia De Software* |
+| --- | --- | ---
+|:---:|:---:|:---:|
+| 💻 | **Full-Stack Developer** | *Projetos web interativos e escaláveis* |
+| ⚡ | **JavaScript & Node.js** | *APIs, integração e backend* |
+| 🖌️ | **React.js & Vue.js** | *Front-end moderno e responsivo* |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:murilo.rafael.de.oliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/murilo-oliveira-668b36a9)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuriloOz&style=for-the-badge&color=00bfbf&labelColor=0D1117)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+  
+**💻 "Codificando ideias, transformando em produtos"** 
+
+*Construindo soluções escaláveis, uma linha de código por vez.*
+
 </div>

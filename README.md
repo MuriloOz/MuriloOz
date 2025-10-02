@@ -42,6 +42,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="50" height="50"/>
 </p>
 
 

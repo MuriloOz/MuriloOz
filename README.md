@@ -27,6 +27,7 @@ Acredito na importância de aprendizado contínuo e inovação constante. Estou 
 
 Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando as melhores práticas de **Full-Stack Development** e tecnologias modernas para transformar ideias em produtos funcionais.
 
+
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
@@ -43,6 +44,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
 </p>
 
+
 ### 💾 Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/>
@@ -56,6 +58,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
+
 
 ## 📊 GitHub Analytics
 
@@ -71,6 +74,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloOz&bg_color=0D1117&color=00bfbf&line=00bfbf&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
 
 ## 🎓 Experiência & Formação
 
@@ -88,6 +92,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
+
 
 ## 🌐 Conecte-se Comigo
 

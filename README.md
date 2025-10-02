@@ -111,6 +111,6 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
   
 **💻 "Codificando ideias, transformando em produtos"** 
 
-*Construindo soluções escaláveis, uma linha de código por vez.*
+*Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir.*
 
 </div>

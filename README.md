@@ -13,8 +13,6 @@ Full-Stack Developer | JavaScript, Node.js, React.js, Vue.js | SQL, Python, C# |
 
 ## 🧠 Sobre Mim
 
-## 🧠 Sobre Mim
-
 Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação, dedicado a transformar ideias em soluções digitais práticas e escaláveis. Com sólida experiência em **JavaScript, Node.js, React.js e Vue.js**, e conhecimento em **SQL, Python e C#**, busco sempre unir lógica, criatividade e eficiência para entregar produtos de alto impacto.  
 
 Meu objetivo vai além de apenas escrever código: gosto de compreender o problema de forma completa, projetar soluções inteligentes e construir interfaces intuitivas que melhorem a experiência do usuário. Tenho experiência em **desenvolvimento web moderno**, criação de **aplicações interativas**, integração de APIs e desenvolvimento de sistemas de backend robustos.  

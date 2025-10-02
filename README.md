@@ -41,6 +41,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="50" height="50"/>
 </p>
@@ -52,6 +53,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
   <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50"/>
 </p>
 
 </div>

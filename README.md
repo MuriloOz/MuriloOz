@@ -13,9 +13,13 @@ Full-Stack Developer | JavaScript, Node.js, React.js, Vue.js | SQL, Python, C# |
 
 ## 🧠 Sobre Mim
 
-Desenvolvedor **Full-Stack** apaixonado por criar soluções intuitivas e escaláveis. Com experiência sólida em **JavaScript, Node.js, React.js e Vue.js**, também trabalho com bancos de dados como **SQL** e linguagens como **Python e C#**, sempre buscando unir tecnologia e eficiência para resolver problemas do mundo real.
+## 🧠 Sobre Mim
 
-Atualmente, foco em **desenvolvimento web moderno**, criação de **aplicações interativas**, integração de APIs, e construção de **interfaces responsivas** e de alta performance.
+Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação, dedicado a transformar ideias em soluções digitais práticas e escaláveis. Com sólida experiência em **JavaScript, Node.js, React.js e Vue.js**, e conhecimento em **SQL, Python e C#**, busco sempre unir lógica, criatividade e eficiência para entregar produtos de alto impacto.  
+
+Meu objetivo vai além de apenas escrever código: gosto de compreender o problema de forma completa, projetar soluções inteligentes e construir interfaces intuitivas que melhorem a experiência do usuário. Tenho experiência em **desenvolvimento web moderno**, criação de **aplicações interativas**, integração de APIs e desenvolvimento de sistemas de backend robustos.  
+
+Acredito na importância de aprendizado contínuo e inovação constante. Estou sempre explorando novas tecnologias, melhores práticas de desenvolvimento e abordagens criativas para resolver desafios complexos. Meu foco é contribuir com projetos que realmente façam diferença, criando produtos funcionais, escaláveis e com excelente performance.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">

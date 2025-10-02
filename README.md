@@ -49,7 +49,7 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
 </p>
 

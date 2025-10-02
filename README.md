@@ -112,7 +112,6 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
 
 </div>
 
----
 
 <div align="center">
   

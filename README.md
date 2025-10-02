@@ -48,9 +48,9 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
 
 ### 💾 Databases & Tools
 <p>
+  <img src="https://skillicons.dev/icons?i=npm" alt="Npm" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
 </p>
 

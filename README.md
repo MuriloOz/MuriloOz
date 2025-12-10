@@ -121,6 +121,6 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
   
 **💻 "Codificando ideias, transformando em produtos"** 
 
-*Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir.*
+*"Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir."*
 
 </div>

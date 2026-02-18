@@ -85,7 +85,6 @@ Criar soluções escaláveis e eficientes em **desenvolvimento web**, aplicando 
 <div align="center">
 
 | 🚀 | **FSG** | *Engenharia De Software* |
-| --- | --- | ---
 |:---:|:---:|:---:|
 | 💻 | **Full-Stack Developer** | *Projetos web interativos e escaláveis* |
 | ⚡ | **JavaScript & Node.js** | *APIs, integração e backend* |
